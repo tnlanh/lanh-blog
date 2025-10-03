@@ -1,0 +1,7 @@
+baseURL: https://lanh.dev/
+languageCode: en-us
+title: Lanh's Blog
+theme: ["PaperMod"]
+caches:
+  images:
+    dir: :cacheDir/images
